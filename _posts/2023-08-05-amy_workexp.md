@@ -1,9 +1,10 @@
 ---
 layout: single
-title:  "Amy Woodcock's work experience with PsychoPy"
+title:  "Contributor story: Amy Woodcock"
 date:   2023-07-31 15:25:41 +0100
 category: "User stories"
-name: Amy Woodcock
+author: "Amy Woodcock"
+author_profile: false
 ---
 
 Hi, I'm Amy Woodcock, and I'm an A-Level student in the UK who's interested in studying 

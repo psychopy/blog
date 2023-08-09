@@ -3,6 +3,8 @@ layout: single
 title:  "Contributor story: Jon Peirce"
 date:   2023-07-31 15:25:41 +0100
 category: "User stories"
+author: Jon
+author_profile: false
 ---
 
 ![Jon Peirce, smiling at the camera. He has not much hair, cut short and a grey beard.](/assets/images/jon.jpg){: .img-super-left}
