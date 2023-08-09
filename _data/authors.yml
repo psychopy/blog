@@ -1,0 +1,52 @@
+# /_data/authors.yml
+
+OST:
+  name        : "Open Science Tools Ltd"
+  bio         : "Scientists, making better open science tools, for scientists"
+  avatar      : "/assets/images/OST_logo.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@opensciencetools.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://opensciencetools.org"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/psychopy"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@psychopy"
+
+Jon:
+  name        : "Jon Peirce"
+  bio         : "Just a man, looking at a computer, asking it to do something useful."
+  avatar      : "/assets/images/jon.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jon@opensciencetools.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://peirce.org.uk"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/peircej"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://fediscience.org/@peircej"
+
+Becca:
+  name        : "Rebecca Hirst"
+  bio         : "Chief Science Officer, OST Ltd"
+  avatar      : "/assets/images/becca.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:becca@opensciencetools.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.rebeccahirst.org/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/HirstRj"

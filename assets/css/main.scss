@@ -1,0 +1,202 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+// for suggested sizes see https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+// Minimal-mistakes reduces its border at w=1024
+
+// NARROW
+@media screen and (max-width : 600px) {
+    /* Styles */
+    .img-super-right {
+        float: none;
+        width: 100%;
+        margin: 0;
+    }
+    .img-super-left {
+        float: none;
+        width: 100%;
+        margin: 1;
+    }
+}
+@media screen and (min-width : 600px) and (max-width : 1024px) {
+    /* Styles */
+    .img-super-right {
+        float: right;
+        width: 50%;
+        margin: 1rem;
+    }
+    .img-super-left {
+        float: left;
+        width: 50%;
+        margin: 1rem;
+    }
+}
+// wide screen (gives space at border so can use an image offset)
+@media screen and (min-width : 1024px) {
+    .img-super-right {
+        float: right;
+        width: 50%;
+        margin: 1rem -20% 1rem 1rem;
+    }
+    .img-super-left {
+        float: left;
+        width: 50%;
+        margin: 1rem 1rem 1rem -20%;    }
+
+}
+
+/*!
+* PsychoPy basic style, for general application to any HTML.
+*/
+
+/** Setup **/
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://fonts.googleapis.com/css?family=JetBrains+Mono");
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Colr+Emoji+Glyf');
+
+
+:root {
+    /* Colors */
+    --black: #000000;
+    --midgrey: #66666e;
+    --lightgrey: #acacb0;
+    --white: #f2f2f2;
+    --red: #f2545b;
+    --blue: #02a9ea;
+    --green: #6ccc74;
+    --orange: #ec9703;
+    --yellow: #f1d302;
+    --purple: #c3bef7;
+    /* Fonts */
+    --body: Raleway;
+    --heading: Raleway;
+    --code: JetBrains Mono;
+    /* Base font attributes */
+    font-family: var(--body), Noto Emoji;
+    font-size: 12pt;
+}
+
+/** Headings **/
+h1, h2, h3, h4, h5, h6 {
+    /* All headings */
+    font-family: var(--heading);
+    margin-block-start: 1em;
+    margin-block-end: 0.2em;
+}
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+h2 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+h4 {
+    font-size: 1rem;
+    font-weight: bold;
+}
+h5 {
+    font-size: 1rem;
+    font-weight: normal;
+    text-decoration: underline;
+}
+h6 {
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+/** Navigation **/
+nav {
+    padding: 1rem;
+}
+nav a {
+    display: block;
+    font-weight: bold;
+    font-family: var(--heading);
+    color: var(--red);
+    text-decoration: none;
+    margin: .5em;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+
+/** Body **/
+section {
+    margin: 2rem auto;
+    padding: 0 1rem;
+    max-width: 1080px;
+}
+article {
+    margin: 1rem;
+    padding: 0 2rem;
+    border-radius: 1rem;
+    border: 1px solid var(--white);
+}
+hr {
+    border: 1px solid var(--white);
+    margin-block-start: 2rem;
+    margin-block-end: 2rem;
+}
+p {
+    margin-block-start: 6pt;
+}
+
+/** Links **/
+a {
+    color: var(--red);
+}
+a:hover {
+    color: var(--orange);
+}
+a:active {
+    color: var(--yellow);
+}
+
+/** Blocks **/
+blockquote, pre {
+    position: relative;
+    padding: 1rem 2rem;
+    margin: 1.5rem .5rem;
+    border: 1px solid var(--white);
+}
+
+/** Code **/
+code, pre {
+    font-family: var(--code);
+    background-color: var(--white);
+}
+code {
+    padding: .05em .3em;
+    border-radius: .3em;
+}
+
+/** Lists **/
+ul li::marker, ol li::marker {
+    font-family: Indie Flower;
+    color: var(--red);
+}
+ol li::marker {
+    font-size: 1.5rem;
+    line-height: 1rem;
+}
+
+/** Images **/
+img {
+    margin: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0.2rem 0.2rem 0.5rem rgba(0, 0, 0, 0.2);
+}
