@@ -21,7 +21,7 @@ Well, I began it. 😊
 
 ![Greyscale image of Jon Peirce in roughly 2002. Jon is looking much younger than now, with short dark haird and clean shaven.](/assets/images/jon2002.jpg){: .img-super-right}
 
-I wrote all the early stimulus code. This came from the idea around 2002 of using OpenGL (which can draw stimuli fast and precisely) in combination with Python (which is easier to use than compiled languages like C++). I later came up with the idea of the Builder interface and wrote the first version of that, although that (and many other aspects of the project) been improved a lot since, with the inputs of many other people.
+The early stimulus code came from an idea I had around 2002 of using OpenGL (which can draw stimuli fast and precisely) in combination with Python (which is easier to use than compiled languages like C++). I later designed the mechanics and format of the Builder interface and wrote the first version of that. All aspects of the project have been improved a lot since, with the inputs of many other people.
 
 Increasingly my role is more around guiding the project, managing the team and working out the directions and priorities. Most of the code, including the documentation, is now written by others.
 
@@ -51,12 +51,12 @@ Nowadays, it's about the family - I have 2 children and they're still young enou
 
 ## What's your superpower?
 
-I think I'm pretty good at doing things efficiently - I focus on the things that are important and work just on the thing that's most important without being sidetracked. I hope I'm also pretty good at explaining things to people, which is why I like teaching.
+I really don't feel like I have a superpower but I guess I'm good at identifying what things that are important without being sidetracked. I hope I'm also pretty good at explaining things to people, which is why I like teaching.
 
 ## What's your kryptonite?
 
-Ha ha, it used to be beer, but less so since I've had children. They really limited my ability to drink! In a good way. I guess.
+Ha ha, it used to be beer, but less so since I've had children. They really limited my ability to drink! Probably a good thing. ;-)
 
-No, I guess at times I've wasted energy on trying to achieve things that can't be achieved. Like, trying to persuade someone of something that I believe in but they don't. I'm not sure that's a good use of my mental cycles but, when I find someone with vastly different opinions to me, I sometimes find it hard to let go. Living in times where people have vastly different opinions strongly held by both sides (like whether the UK should be in the EU, or whether Trump should be in jail) makes that... interesting.
+More seriously though, I guess at times I've wasted energy on trying to achieve things that can't be achieved. Like, trying to persuade someone of something that I believe in but they don't. I'm not sure that's a good use of my mental cycles but, when I find someone with vastly different opinions to me, I sometimes find it hard to let go. Living in times where people have vastly different opinions strongly held by both sides (like whether the UK should be in the EU, or whether Trump should be in jail) makes that... interesting.
 
 I do miss the beer.
