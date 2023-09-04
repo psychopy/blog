@@ -3,8 +3,8 @@ layout: single
 title:  "Contributor story: Amy Woodcock"
 date:   2023-07-31 15:25:41 +0100
 category: "User stories"
-author: "Amy Woodcock"
-author_profile: false
+author: Amy
+author_profile: true
 ---
 
 Hi, I'm Amy Woodcock, and I'm an A-Level student in the UK who's interested in studying 

@@ -50,3 +50,8 @@ Becca:
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
       url: "https://twitter.com/HirstRj"
+
+Amy:
+  name        : "Amy Woodcock"
+  bio         : "Student intern at Open Science Tools"
+  avatar      : "/assets/images/amy2023.png"
