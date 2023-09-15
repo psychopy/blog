@@ -18,4 +18,4 @@ I would say a typically day as a Science Officer in Open Science Tools is never 
 
 PsychoPy was created in the University of Nottingham and because of that, we would be invited to talk about PsychoPy to prospective students. It's interesting because I was an undergraduate student in the Malaysian campus and also completed my PhD in University of Nottingham so I would be able to share my own experiences as a student and user of PsychoPy.
 
-![Sue Lynn during University of Nottingham Open Day.](/assets/images/suelynn.png){: .img-super-left style="width:75%"}
+![Sue Lynn and Becca at BPS CogDev.](/assets/images/suelynn_becca_bps.jpeg){: .img-super-left style="width:75%"}
