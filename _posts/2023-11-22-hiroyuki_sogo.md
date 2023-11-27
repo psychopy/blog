@@ -18,6 +18,8 @@ Soon after using the Builder for teaching, I faced problems with Japanese charac
 
 In 2014, the project started to make the Builder UI multilingual. I participated in testing multilingual functions and simultaneously translating the UI into Japanese. Since that time, I have continued to update Japanese translations when new features are added to the Builder or messages in the UI are modified.
 
+![Hiroyuki with the translated version of the book, Building Experiments in PsychoPy.](/assets/images/hs.jpg){: .img-super-right}
+
 In addition, I have been publishing tutorials on Builder on my website since 2014. This led to an offer from a publisher to write two books, one is about programming PsychoPy and the other is about online experiments with the Builder and Pavlovia. I also participated in the translation team for the official PsychoPy book (“Building Experiments in PsychoPy”).
 
 I’m not a good programmer at all, and most of the bugs I fixed were easy to fix; however, they would have been difficult to find for users who didn’t use the multibyte characters environment. Even the best programmers will not be able to find all the bugs under various conditions. So, I hope that people with various backgrounds will contribute to the development of PsychoPy.
