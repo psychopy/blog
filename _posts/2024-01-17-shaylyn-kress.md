@@ -1,8 +1,8 @@
 ---
 layout: single
-title: “Contributor story: Shaylyn Kress”
+title: "Contributor story: Shaylyn Kress"
 date: 2024-01-17 10:58:41 +0100
-category: “User stories”
+category: "User stories"
 author: Shaylyn
 author_profile: false
 ---
