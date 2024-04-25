@@ -21,17 +21,18 @@ That was the beginning of PsychoPy, which was uploaded to sourceforge.net as `ps
 
 In 2003, Jon moved to Nottingham University as a Lecturer (Asst Prof, in American terminology) and began using PsychoPy for his own studies from then on.
 
+![Screenshot of version 1.6 Coder Interface](/assets/images/coder.png){: .img-super-left}
+
 ## Python enthusiasts
 
 In the early years PsychoPy had a few users, a web page, a Google Group, but Jon didn't really provide much in the way of formal support. PsychoPy was for his lab and he made it available, but if it didn't work for you on your system that was... well, just unfortunate! Actually, that's not quite true. Jon discovered that the power of Python meant that he could add things with relatively little effort and so he often spent his evenings and weekends adding features that users requested. He added more stimuli, and the Coder interface, and built the dependencies into an app so it could be installed more easily. That set of features led to the first manuscript about PsychoPy in 2007 (Peirce, 2007).
 
-![Screenshot of version 1.6 Coder Interface](/assets/images/coder.png){: .img-super-right}
+![Screenshot of version 1.6 Builder Interface](/assets/images/builder.png){: .img-super-right}
 
 ## 2008-9 Adding the Builder interface
 
 Jon was teaching psychology undergraduates to use E-Prime in their practical classes at Nottingham. That wasn't suitable for psychophysics stimuli (it couldn't create the sort of stimuli that vision scientists need) but it was the only software at the time that had a simple enough graphical user interface for undergraduates (and other non-programmers) to create their own studies. Some discussions with André Gouws at the University of York, encouraged Jon to think about what an ideal graphical interface would look like for PsychoPy and to work out the mechanics of what that might do. This was the beginning of creating the Builder interface. It was a lot of work, mostly in evenings and weekends, but by 2009 this was available with a range of simple stimuli and flow controls, as well as the option to add code snippets. It meant that people could use PsychoPy who didn't have any programming experience and it quickly gained traction as a teaching tool. The inner workings of the Builder interface have changed very little since that first iteration, although the stimuli and user interface have improved enormously.
 
-![Screenshot of version 1.6 Builder Interface](/assets/images/builder.png){: .img-super-left}
 
 ## Increasing uptake, increasing features, increasing precision
 
