@@ -2,7 +2,7 @@
 layout: single
 title:  "Contributor story: Amy Woodcock"
 date:   2023-07-31 15:25:41 +0100
-category: "User stories"
+category: "Contributor stories"
 author: Amy
 author_profile: true
 ---

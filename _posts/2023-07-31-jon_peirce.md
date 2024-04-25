@@ -2,7 +2,7 @@
 layout: single
 title:  "Contributor story: Jon Peirce"
 date:   2023-07-31 15:25:41 +0100
-category: "User stories"
+category: "Contributor stories"
 author: Jon
 author_profile: false
 ---
@@ -19,7 +19,7 @@ I also founded Open Science Tools Ltd, a company (social enterprise) that suppor
 
 Well, I began it. 😊
 
-![Greyscale image of Jon Peirce in roughly 2002. Jon is looking much younger than now, with short dark haird and clean shaven.](/assets/images/jon2002.jpg){: .img-super-right}
+![Greyscale image of Jon Peirce in roughly 2002. Jon is looking much younger than now, with short dark hair and clean shaven.](/assets/images/jon2002.jpg){: .img-super-right}
 
 The early stimulus code came from an idea I had around 2002 of using OpenGL (which can draw stimuli fast and precisely) in combination with Python (which is easier to use than compiled languages like C++). I later designed the mechanics and format of the Builder interface and wrote the first version of that. All aspects of the project have been improved a lot since, with the inputs of many other people.
 
