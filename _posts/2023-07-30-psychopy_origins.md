@@ -21,7 +21,6 @@ That was the beginning of PsychoPy, which was uploaded to sourceforge.net as `ps
 
 In 2003, Jon moved to Nottingham University as a Lecturer (Asst Prof, in American terminology) and began using PsychoPy for his own studies from then on.
 
-![Screenshot of version 1.6 Coder Interface](/assets/images/coder.png){: .img-super-left}
 
 ## Python enthusiasts
 
