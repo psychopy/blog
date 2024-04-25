@@ -12,3 +12,26 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+posts:
+  - title: Contributor Stories
+    children:
+      - title: "Abbey Roelofs"
+        url: https://blog.psychopy.org/contributor%20stories/abbey-roelofs/
+      # - title: "Structure"
+      #   url: /docs/structure/
+      # - title: "Installation"
+      #   url: /docs/installation/
+      # - title: "Upgrading"
+      #   url: /docs/upgrading/
+
+  - title: General blogs
+    children:
+      - title: "The origins of PsychoPy"
+        url: https://blog.psychopy.org/general%20blog/psychopy_origins/
+      # - title: "Structure"
+      #   url: /docs/structure/
+      # - title: "Installation"
+      #   url: /docs/installation/
+      # - title: "Upgrading"
+      #   url: /docs/upgrading/
