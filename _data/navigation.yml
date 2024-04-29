@@ -19,19 +19,19 @@ posts:
       - title: "Abbey Roelofs"
         url: https://blog.psychopy.org/contributor%20stories/abbey-roelofs/
       - title: "Amy Woodcock"
-        url: /_posts/2023-08-05-amy_workexp/
+        url: https://blog.psychopy.org/contributor%20stories/amy_workexp/
       - title: "Hiroyuki Sogo"
-        url: /_posts/2023-11-22-hiroyuki_sogo/
+        url: https://blog.psychopy.org/contributor%20stories/hiroyuki_sogo/
       - title: "Jon Peirce"
-        url: /_posts/2023-07-31-jon_peirce/
+        url: https://blog.psychopy.org/contributor%20stories/jon_peirce/
       - title: "Patrick Bolger"
-        url: /_posts/2023-10-02-patrick_bolger/
+        url: https://blog.psychopy.org/contributor%20stories/patrick_bolger/
       - title: "Shaylyn Kress"
-        url: /_posts/2024-01-17-shaylyn-kress/
+        url: https://blog.psychopy.org/contributor%20stories/shaylyn-kress/
       - title: "Shun Wang"
-        url: /_posts/2023-11-13-shun_wang/
+        url: https://blog.psychopy.org/contributor%20stories/shun_wang/
       - title: "Sue Lynn Mah"
-        url: /_posts/2023-09-07-suelynn_mah/
+        url: https://blog.psychopy.org/contributor%20stories/suelynn_mah/
       # - title: "Installation"
       #   url: /_posts/2024-01-15-abbey-roelofs/
       # - title: "Upgrading"
@@ -40,7 +40,7 @@ posts:
   - title: General blogs
     children:
       - title: "The origins of PsychoPy"
-        url: /_posts/2023-07-30-psychopy_origins/
+        url: https://blog.psychopy.org/general%20blog/psychopy_origins/
       # - title: "Structure"
       #   url: /docs/structure/
       # - title: "Installation"
