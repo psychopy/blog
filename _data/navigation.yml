@@ -17,7 +17,7 @@ posts:
   - title: Contributor Stories # arranged alphabetically
     children:
       - title: "Abbey Roelofs"
-        url: /_posts/2024-01-15-abbey-roelofs/
+        url: https://blog.psychopy.org/contributor%20stories/abbey-roelofs/
       - title: "Amy Woodcock"
         url: /_posts/2023-08-05-amy_workexp/
       - title: "Hiroyuki Sogo"
