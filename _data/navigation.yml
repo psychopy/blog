@@ -15,23 +15,24 @@ main:
 
 posts:
   - title: Contributor Stories # arranged alphabetically
-    children:
-      - title: "Abbey Roelofs"
-        url: https://blog.psychopy.org/contributor%20stories/abbey-roelofs/
-      - title: "Amy Woodcock"
-        url: https://blog.psychopy.org/contributor%20stories/amy_workexp/
-      - title: "Hiroyuki Sogo"
-        url: https://blog.psychopy.org/contributor%20stories/hiroyuki_sogo/
-      - title: "Jon Peirce"
-        url: https://blog.psychopy.org/contributor%20stories/jon_peirce/
-      - title: "Patrick Bolger"
-        url: https://blog.psychopy.org/contributor%20stories/patrick_bolger/
-      - title: "Shaylyn Kress"
-        url: https://blog.psychopy.org/contributor%20stories/shaylyn-kress/
-      - title: "Shun Wang"
-        url: https://blog.psychopy.org/contributor%20stories/shun_wang/
-      - title: "Sue Lynn Mah"
-        url: https://blog.psychopy.org/contributor%20stories/suelynn_mah/
+    url: https://blog.psychopy.org/stories
+    # children:
+    #   - title: "Abbey Roelofs"
+    #     url: https://blog.psychopy.org/stories
+    #   - title: "Amy Woodcock"
+    #     url: https://blog.psychopy.org/contributor%20stories/amy_workexp/
+    #   - title: "Hiroyuki Sogo"
+    #     url: https://blog.psychopy.org/contributor%20stories/hiroyuki_sogo/
+    #   - title: "Jon Peirce"
+    #     url: https://blog.psychopy.org/contributor%20stories/jon_peirce/
+    #   - title: "Patrick Bolger"
+    #     url: https://blog.psychopy.org/contributor%20stories/patrick_bolger/
+    #   - title: "Shaylyn Kress"
+    #     url: https://blog.psychopy.org/contributor%20stories/shaylyn-kress/
+    #   - title: "Shun Wang"
+    #     url: https://blog.psychopy.org/contributor%20stories/shun_wang/
+    #   - title: "Sue Lynn Mah"
+    #     url: https://blog.psychopy.org/contributor%20stories/suelynn_mah/
       # - title: "Installation"
       #   url: /_posts/2024-01-15-abbey-roelofs/
       # - title: "Upgrading"
