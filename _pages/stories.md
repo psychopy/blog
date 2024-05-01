@@ -1,7 +1,7 @@
 ---
-layout: categories
+layout: archive
 title: Contributor Stories
-permalink: /categories/index.html
+permalink: /stories/index.html
 ---
 
 This is a test
