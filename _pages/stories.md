@@ -1,7 +1,7 @@
 ---
 layout: categories
 title: Contributor Stories
-permalink: /categories/
+permalink: /categories/index.html
 ---
 
 This is a test
