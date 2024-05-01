@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: category
 title: Contributor Stories
 permalink: /stories/index.html
 ---
