@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Contributor story: Amy Woodcock"
+title:  "Perspective story: Amy Woodcock"
 date:   2023-07-31 15:25:41 +0100
-category: "Contributor stories"
+category: "Perspective stories"
 author: Amy
 author_profile: true
 ---
