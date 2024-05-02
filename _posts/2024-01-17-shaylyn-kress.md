@@ -7,7 +7,7 @@ author: Shaylyn
 author_profile: false
 ---
 
-![image of Shaylyn](/assets/images/SK.jpeg){: .img-super-left}
+![image of Shaylyn](/assets/images/SK.jpeg){: .img-super-right}
 
 ## Background
 
