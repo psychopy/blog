@@ -136,13 +136,13 @@ nav a:hover {
 
 /** Body **/
 section {
-    margin: 2rem auto;
-    padding: 0 1rem;
+    margin: 0; /* Remove margin */
+    margin: 0; /* Remove margin */
     max-width: 1080px;
 }
 article {
-    margin: 1rem;
-    padding: 0 2rem;
+    margin: 0; /* Remove margin */
+    padding: 0; /* Remove padding */
     border-radius: 1rem;
     border: 1px solid var(--white);
 }
