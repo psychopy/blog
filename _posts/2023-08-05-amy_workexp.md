@@ -29,7 +29,7 @@ experimental design, experience with using technology like eye trackers and
 EEGs (electroencephalograms), and an understanding of how psychological 
 research works (as well as a raging caffeine addiction).
 
-![Amy, Jon and Sue Lynn sitting in an office smiling at the camera for a selfie.](/assets/images/amy_jon_suelynn_selfie.jpg){: .img-super-left style="width:75%"}
+![Amy, Jon and Sue Lynn sitting in an office smiling at the camera for a selfie.](/assets/images/amy_jon_suelynn_selfie.jpg){: .img-super-right style="width:75%"}
 
 In my experience as a complete beginner to using PsychoPy and designing 
 experiments in general, I have found the software very intuitive and easy to 

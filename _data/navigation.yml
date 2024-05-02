@@ -14,47 +14,23 @@ main:
   #   url: /sitemap/
 
 posts:
-  - title: Contributor Stories # arranged alphabetically
+  - title: Contributor Stories
     url: https://blog.psychopy.org/stories
     # children:
     #   - title: "Abbey Roelofs"
     #     url: https://blog.psychopy.org/stories
-    #   - title: "Amy Woodcock"
-    #     url: https://blog.psychopy.org/contributor%20stories/amy_workexp/
-    #   - title: "Hiroyuki Sogo"
-    #     url: https://blog.psychopy.org/contributor%20stories/hiroyuki_sogo/
-    #   - title: "Jon Peirce"
-    #     url: https://blog.psychopy.org/contributor%20stories/jon_peirce/
-    #   - title: "Patrick Bolger"
-    #     url: https://blog.psychopy.org/contributor%20stories/patrick_bolger/
-    #   - title: "Shaylyn Kress"
-    #     url: https://blog.psychopy.org/contributor%20stories/shaylyn-kress/
-    #   - title: "Shun Wang"
-    #     url: https://blog.psychopy.org/contributor%20stories/shun_wang/
-    #   - title: "Sue Lynn Mah"
-    #     url: https://blog.psychopy.org/contributor%20stories/suelynn_mah/
-      # - title: "Installation"
-      #   url: /_posts/2024-01-15-abbey-roelofs/
-      # - title: "Upgrading"
-      #   url: /_posts/2024-01-15-abbey-roelofs/
+
 
   - title: General blogs
     url: https://blog.psychopy.org/general
     # children:
     #   - title: "The origins of PsychoPy"
     #     url: https://blog.psychopy.org/general%20blog/psychopy_origins/
-      # - title: "Structure"
-      #   url: /docs/structure/
-      # - title: "Installation"
-      #   url: /docs/installation/
-      # - title: "Upgrading"
-      #   url: /docs/upgrading/
+
   
-  # for when we have more perspective stories
-  # - title: User Perspective Stories
+  - title: User Perspective Stories
+    url: https://blog.psychopy.org/perspectives/
   #   children:
-  #     - title: "Amy Woodcock"
-  #       url: /_posts/2023-08-05-amy_workexp/
       # - title: "Structure"
       #   url: /docs/structure/
       # - title: "Installation"
@@ -62,8 +38,9 @@ posts:
       # - title: "Upgrading"
       #   url: /docs/upgrading/
 
-  # for when we have newsletters
+
   # - title: PsychoPy Newsletter
+  #   url: https://blog.psychopy.org/newsletter/
   #   children:
   #     - title: "Amy Woodcock"
   #       url: /_posts/2023-08-05-amy_workexp/
