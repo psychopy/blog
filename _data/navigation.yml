@@ -39,9 +39,10 @@ posts:
       #   url: /_posts/2024-01-15-abbey-roelofs/
 
   - title: General blogs
-    children:
-      - title: "The origins of PsychoPy"
-        url: https://blog.psychopy.org/general%20blog/psychopy_origins/
+    url: https://blog.psychopy.org/general
+    # children:
+    #   - title: "The origins of PsychoPy"
+    #     url: https://blog.psychopy.org/general%20blog/psychopy_origins/
       # - title: "Structure"
       #   url: /docs/structure/
       # - title: "Installation"
