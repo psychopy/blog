@@ -55,3 +55,12 @@ Amy:
   name        : "Amy Woodcock"
   bio         : "Student intern at Open Science Tools"
   avatar      : "/assets/images/amy2023.png"
+
+Sue Lynn:
+  name        : "Sue Lynn Mah"
+  bio         : "PsychoPy super user"
+  avatar      : "/assets/images/suelynn_profile.jpg"
+  links:
+    - label: "Twitter/X"
+      icon: "fab fa-fw fa-square-x-twitter"
+      url: "https://twitter.com/SueLynn_aDr"
