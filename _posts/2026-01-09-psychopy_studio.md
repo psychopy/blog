@@ -8,11 +8,11 @@ author: Jon
 ---
 
 
-![PsychoPy Studio splash screen 2026](/assets/images/PsychoPyStudio2026.png){: .img-super-right style="width:75%"}
-
 It's now over 20 years since PsychoPy's humble beginnings as an open-source Python library to help users present high-precision stimuli and collect responses from participants. Since 2009 PsychoPy has provided, in addition to the Python library, an application that included Builder and Coder interfaces for creation of experiments. That application was, itself, written in Python using wxPython to provide widgets that could be used to support Windows, MacOS and Linux whereas similar proprietary packages (like E-Prime, or Presentation) were only available on Windows. 
 
 In essence, while wxPython made possible a lot of what we managed to achieve over the last 15 years, it also has some disadvantages and we have taken the step to rewrite from the ground up with a more modern “web-based” technology stack.
+
+![PsychoPy Studio splash screen 2026](/assets/images/PsychoPyStudio2026.png){: .img-super-right style="width:75%"}
 
 We’re very excited at this point to be releasing the new app, which goes by the name PsychoPy Studio and we hope you’ll enjoy the advantages it brings, which are summarised below.
 
