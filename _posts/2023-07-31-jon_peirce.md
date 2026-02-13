@@ -2,7 +2,7 @@
 layout: single
 title:  "Contributor story: Jon Peirce"
 date:   2023-07-31 15:25:41 +0100
-category: "Contributor stories"
+category: perspectives
 author: Jon
 author_profile: true
 ---

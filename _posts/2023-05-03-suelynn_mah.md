@@ -2,7 +2,7 @@
 layout: single
 title:  "Perspective story: Sue Lynn Mah"
 date:   2024-05-03 14:13:41 +0100
-category: "Perspective stories"
+category: perspectives
 author: Sue Lynn
 author_profile: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: category
-taxonomy: Perspective stories
+taxonomy: perspectives
 title: Perspective Stories
 permalink: /perspectives/index.html
 ---

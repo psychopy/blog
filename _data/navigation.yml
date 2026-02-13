@@ -14,9 +14,7 @@ main:
   #   url: /sitemap/
   - title: "General"
     url: /general/
-  - title: "Contributors"
-    url: /stories/
-  - title: "User Perspectives"
+  - title: "User/contributor perspectives"
     url: /perspectives/
   - title: "Tags"
     url: /tags/
