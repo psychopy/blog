@@ -2,7 +2,7 @@
 layout: single
 title:  "To build, or not to build, that is the question"
 date:   2024-08-14 15:25:41 +0100
-categories: General Blog, psychopy
+categories: "General Blog"
 tags: builder, coder, psychopy
 author: Jon
 ---
