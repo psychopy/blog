@@ -6,46 +6,25 @@ main:
         url: https://psychopy.org
       - title: "Forum"
         url: https://discourse.psychopy.org
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Categories"
-    children:
-      - title: "General"
-        url: /general/
-      - title: "Contributor stories"
-        url: /stories/
-      - title: "User perspectives"
-        url: /perspectives/
+  - title: "General"
+    url: /general/
+  - title: "Contributors"
+    url: /stories/
+  - title: "User Perspectives"
+    url: /perspectives/
   - title: "Tags"
     url: /tags/
 
 posts:
-  - title: Contributor Stories
-    url: https://blog.psychopy.org/stories
-    # children:
-    #   - title: "Abbey Roelofs"
-    #     url: https://blog.psychopy.org/stories
-
-
   - title: General blogs
     url: https://blog.psychopy.org/general
-    # children:
-    #   - title: "The origins of PsychoPy"
-    #     url: https://blog.psychopy.org/general%20blog/psychopy_origins/
-
-  
+  - title: Contributor Stories
+    url: https://blog.psychopy.org/stories
   - title: User Perspective Stories
     url: https://blog.psychopy.org/perspectives/
-  #   children:
-      # - title: "Structure"
-      #   url: /docs/structure/
-      # - title: "Installation"
-      #   url: /docs/installation/
-      # - title: "Upgrading"
-      #   url: /docs/upgrading/
