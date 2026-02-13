@@ -12,6 +12,14 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Categories"
+    children:
+      - title: Contributor/user Stories
+      - url: /stories/
+  - title: "Tags"
+    url: /tags/
 
 posts:
   - title: Contributor Stories
@@ -31,19 +39,6 @@ posts:
   - title: User Perspective Stories
     url: https://blog.psychopy.org/perspectives/
   #   children:
-      # - title: "Structure"
-      #   url: /docs/structure/
-      # - title: "Installation"
-      #   url: /docs/installation/
-      # - title: "Upgrading"
-      #   url: /docs/upgrading/
-
-
-  # - title: PsychoPy Newsletter
-  #   url: https://blog.psychopy.org/newsletter/
-  #   children:
-  #     - title: "Amy Woodcock"
-  #       url: /_posts/2023-08-05-amy_workexp/
       # - title: "Structure"
       #   url: /docs/structure/
       # - title: "Installation"
