@@ -2,7 +2,7 @@
 layout: single
 title:  "Perspective story: Amy Woodcock"
 date:   2023-07-31 15:25:41 +0100
-category: "Perspective stories"
+category: perspectives
 author: Amy
 author_profile: true
 ---

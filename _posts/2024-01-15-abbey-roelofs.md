@@ -2,7 +2,7 @@
 layout: single
 title:  "Contributor story: Abbey Roelofs"
 date:   2024-01-22 16:52:00 +0100
-category: "Contributor stories"
+category: perspectives
 author: Abbey
 author_profile: false
 ---

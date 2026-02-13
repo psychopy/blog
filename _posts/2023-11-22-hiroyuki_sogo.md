@@ -2,7 +2,7 @@
 layout: single
 title:  "Contributor story: Hiroyuki Sogo"
 date:   2023-11-22 15:38:41 +0100
-category: "Contributor stories"
+category: perspectives
 author: Hiroyuki
 author_profile: false
 

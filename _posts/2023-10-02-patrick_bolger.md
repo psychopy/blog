@@ -2,7 +2,7 @@
 layout: single
 title:  "Contributor story: Patrick Bolger"
 date:   2023-10-02 11:57:00 +0100
-category: "Contributor stories"
+category: perspectives
 author: Patrick
 author_profile: false
 ---
