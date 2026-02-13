@@ -137,6 +137,9 @@ analytics:
 # Site Footer
 footer:
   links:
+    - label: "Bluesky"
+      icon: "fa-brands fa-square-bluesky"
+      url: "https://bsky.app/profile/psychopy.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
       url: "https://twitter.com/psychopy"
