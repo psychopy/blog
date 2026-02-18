@@ -1,7 +1,7 @@
 ---
 layout: category
-taxonomy: General Blog
-title: General Blog
+taxonomy: PsychoPy
+title: PsychoPy Blog
 permalink: /general/index.html
 ---
 

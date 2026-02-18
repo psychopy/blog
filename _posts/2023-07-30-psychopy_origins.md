@@ -2,7 +2,7 @@
 layout: single
 title:  "The origins of PsychoPy"
 date:   2024-04-23 10:25:41 +0100
-category: "General Blog"
+category: PsychoPy
 tags: psychopy, history
 author: Jon
 ---
