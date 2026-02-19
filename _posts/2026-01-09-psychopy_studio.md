@@ -2,7 +2,7 @@
 layout: single
 title:  "PsychoPy Studio: the app we love, reimagined"
 date:   2026-01-09 13:34
-category: "General Blog"
+category: PsychoPy
 tags: psychopy, history
 author: Jon
 ---
