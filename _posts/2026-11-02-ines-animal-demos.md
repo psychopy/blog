@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "Using PsychoPy in Animal Research"
+title:  "Using PsychoPy in animal research"
 date: 2026-11-02 11:00  
 category: PsychoPy
-tags: psychopy, animal behaviour, rodents, mice, rats, zebrafish, demos
+tags: psychopy animal behaviour rodents mice rats zebrafish demos 
 author: Inés
 author_profile: true
 ---
